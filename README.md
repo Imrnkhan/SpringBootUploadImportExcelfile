@@ -27,6 +27,9 @@ GET	/files/[fileId]	download a File
 
 ![image](https://user-images.githubusercontent.com/95843558/222312285-c14d26a0-9df2-46d7-ab2c-a6938a654c24.png)
 
+![image](https://user-images.githubusercontent.com/95843558/222313902-f4145e35-30e1-46c4-a30e-2d50e377f34e.png)
+
+
 1.POST Method
 
 http://localhost:8087/api/excel/upload
